@@ -59,7 +59,7 @@ body {
 @media screen and (max-width: 750px) {
   .top_bar > a:not(:first-child) {display: none;}
   .top_bar .split a:not(:last-child) {display: none;}
-  .top_bar.icon {
+  .top_bar .icon {
     float: right;
     display: block;
   }
