@@ -4,8 +4,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display";
   letter-spacing: 5px;
 }
-h2{
+h2 {
   background-color: #67D6A4;
+  border-radius: 12px; /* 數值越大邊角越圓，常用範圍為 8px ~ 15px */
+  padding: 6px 12px;   /* 建議稍微增加內邊距，文字才不會貼齊邊緣 */
 }
 
 /*  */
